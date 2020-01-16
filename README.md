@@ -1,6 +1,7 @@
 # Pipeline-Kafka--Spark--HBase
 getting data from Kafka topic (clicks) to Spark (using PySpark) and then inserting the ingested data (with some business logic) into HBase table (clicks) using happybase module in python 
 
+Hi,
 
 The python script uploaded is to be executed in Spark (pyspark shell).
 Or else
